@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">NetwinCompanyAssignment</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+    <string name="bussinesslogotxt">BUSINESS LOGO/ICON</string>
+    <string name="bussinessnametxt">BUSINESS NAME</string>
+    <string name="addresstxt">ADDRESS</string>
+    <string name="showonmaptxt">SHOW ON MAP</string>
+    <string name="yestxt">YES</string>
+    <string name="notxt">NO</string>
+    <string name="contacttxt">CONTACT</string>
+    <string name="websitetxt">BUSINESS WEBSITE URL</string>
+    <string name="opentimetxt">OPENING TIME</string>
+    <string name="closetimetxt">CLOSING TIME</string>
+    <string name="phototxt">PHOTOS</string>
+    <string name="submittxt">SUBMIT</string>
+</resources>
